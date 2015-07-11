@@ -1,1 +1,2 @@
+My changes from amber_repo
 Entering some text in Amber_txt file.
