@@ -2,4 +2,6 @@ Adding another line by Amber without knowing that the file has been updated by J
  
  Adding a line fomr john's repo.
 
- Incorporating changes from John as well as updating my changes.
+ Incorporating changes from John as well as updating my changes
+ 
+Adding some lines of text from Amber's repository and do not wish to merge the changes until explicitly run the merge command..
