@@ -3,3 +3,4 @@ Adding another line by Amber without knowing that the file has been updated by J
  Adding a line fomr john's repo.
 
  Incorporating changes from John as well as updating my changes.
+ Editing the file to demonstrate the git fetch command.
