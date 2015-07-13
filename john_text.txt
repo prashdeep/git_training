@@ -1,7 +1,12 @@
 Adding another line by Amber without knowing that the file has been updated by John and pushed to the remote repository.
  
- Adding a line fomr john's repo.
+  Adding a line fomr john's repo.
 
- Incorporating changes from John as well as updating my changes
+  Incorporating changes from John as well as updating my changes
  
-Adding some lines of text from Amber's repository and do not wish to merge the changes until explicitly run the merge command..
+  Adding some lines of text from Amber's repository and do not wish to merge the changes until explicitly run the merge command..
+
+  Incorporating changes from John as well as updating my changes.
+
+
+ Adding the lines to be be merged using the fetch command from Amber's repository.
