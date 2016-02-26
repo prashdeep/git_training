@@ -1,2 +1,4 @@
 My changes from amber_repo
 Entering some text in Amber_txt file.
+
+Making some changes to the file and committing the changes to the remote repository.
